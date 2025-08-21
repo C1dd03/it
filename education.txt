@@ -2,3 +2,8 @@ Elementary School	: CASOCES
 Year Graduated		: 2015-2016
 High School		: CITCI
 Year Graduated		: 2019-2020
+___________________________________
+
+College School		: CSUCC
+Program			: BSIT
+Year Level		: 3rd Year
